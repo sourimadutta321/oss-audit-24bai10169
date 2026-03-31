@@ -1,0 +1,6 @@
+--------------------------------------
+ Open Source Manifesto
+--------------------------------------
+Date: 26 March 2026
+
+I use GIT as part of my daily workflow, which reflects the power of open-source software. For me, freedom means BEST, and it represents the ability to learn, modify, and share knowledge without restrictions. In the future, I would like to build HAPPINESS and contribute it freely to the community, so others can benefit and improve upon it. Open source is not just about code, but about collaboration, transparency, and innovation.
