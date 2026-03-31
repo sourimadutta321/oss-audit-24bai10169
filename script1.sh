@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: Your Name | Course: Open Source Software
 
-STUDENT_NAME="Shivansh"
+STUDENT_NAME="Sourima"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
