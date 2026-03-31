@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Vanshika Karamchandani
-* **Roll Number:** 24BCE11281
+* **Name:** Sourima Dutta
+* **Roll Number:** 24BAI10169
 
 ---
 
